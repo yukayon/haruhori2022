@@ -163,12 +163,15 @@ body {
     position: fixed;
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
-    top: 50px;
+    top: 60px;
     right: -20px;
     color: #fff;
     font-size: 30px;
     text-align: right;
     transform: rotate(90deg);
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .txt {
