@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 html,
 body,
 div,
@@ -154,7 +155,8 @@ html {
 }
 
 body {
-    background: #000
+    background: #000;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 header {
@@ -194,7 +196,7 @@ header {
     left: 30px;
     color: #fff;
     font-size: large;
-    transform: rotate(0.5turn);
+    transform: rotate(90deg);
 }
 
 .point {
