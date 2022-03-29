@@ -193,7 +193,7 @@ header {
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
     bottom: 50px;
-    left: 0px;
+    left: -20px;
     color: #fff;
     font-size: large;
     transform: rotate(90deg);
