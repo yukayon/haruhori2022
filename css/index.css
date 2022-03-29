@@ -164,7 +164,7 @@ body {
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
     top: 80px;
-    right: -30px;
+    right: -40px;
     color: #fff;
     font-size: 30px;
     text-align: right;
@@ -178,7 +178,7 @@ body {
     position: fixed;
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
-    bottom: 50px;
+    bottom: 45px;
     left: -20px;
     color: #fff;
     text-align: center;
