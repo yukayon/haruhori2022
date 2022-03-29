@@ -163,8 +163,8 @@ body {
     position: fixed;
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
-    top: 60px;
-    right: -20px;
+    top: 80px;
+    right: -30px;
     color: #fff;
     font-size: 30px;
     text-align: right;
@@ -181,6 +181,7 @@ body {
     bottom: 50px;
     left: -20px;
     color: #fff;
+    text-align: center;
     font-size: large;
     transform: rotate(90deg);
     background-color: rgba(0, 0, 0, 0.2);
