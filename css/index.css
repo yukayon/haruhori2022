@@ -185,7 +185,8 @@ header {
 
 .ttl {
     color: #fff;
-    text-align: center;
+    text-align: left;
+    writing-mode: vertical-rl;
 }
 
 .txt {
