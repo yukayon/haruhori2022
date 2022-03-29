@@ -191,11 +191,10 @@ header {
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
     bottom: 30px;
-    /* 上下の固定位置を上から0pxにする */
     right: 30px;
-    /* 左右の固定位置を左から0pxにする */
     color: #fff;
     font-size: large;
+    writing-mode: vertical-lr;
 }
 
 #reverse:target {
