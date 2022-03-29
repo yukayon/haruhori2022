@@ -201,6 +201,10 @@ header {
     -webkit-writing-mode: vertical-rl;
 }
 
+.point {
+    font-size: 70px;
+}
+
 #reverse:target {
     transform: rotateY(180deg)
 }
