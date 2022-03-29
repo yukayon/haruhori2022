@@ -194,11 +194,7 @@ header {
     left: 30px;
     color: #fff;
     font-size: large;
-    writing-mode: tb-rl;
-    writing-mode: vertical-rl;
-    -moz-writing-mode: vertical-rl;
-    -o-writing-mode: vertical-rl;
-    -webkit-writing-mode: vertical-rl;
+    transform: rotate(0.5turn);
 }
 
 .point {
