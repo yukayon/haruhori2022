@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
-@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
 html,
 body,
 div,
@@ -186,7 +186,7 @@ body {
 .number {
     font-size: 70px;
     letter-spacing: -0.1em;
-    font-family: 'Cute Font', cursive;
+    font-family: 'Play', sans-serif;
 }
 
 #reverse:target {
