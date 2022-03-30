@@ -184,6 +184,7 @@ body {
 
 .number {
     font-size: 70px;
+    letter-spacing: -0.2em;
 }
 
 #reverse:target {
