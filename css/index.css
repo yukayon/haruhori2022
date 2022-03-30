@@ -150,13 +150,17 @@ summary {
     -webkit-backface-visibility: visible
 }
 
+@font-face {
+    font-family: 'DSEG7 Classic';
+    src: url('fonts/DSEG7Classic-Regular.woff') format("woff"), url('fonts/DSEG7Classic-Regular.woff2') format("woff2");
+}
+
 html {
     cursor: pointer
 }
 
 body {
     background: #000;
-    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .txt {
@@ -175,11 +179,12 @@ body {
 }
 
 .material .point {
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 20px;
 }
 
 .point {
-    margin-left: 20px;
+    font-family: 'DSEG7 Classic';
 }
 
 .number {
