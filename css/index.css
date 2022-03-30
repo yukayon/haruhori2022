@@ -159,27 +159,12 @@ body {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
-.ttl {
-    position: fixed;
-    /* ウィンドウを基準に画面に固定 */
-    z-index: 9999;
-    top: 80px;
-    right: -40px;
-    color: #fff;
-    font-size: 30px;
-    text-align: right;
-    transform: rotate(90deg);
-    background-color: rgba(0, 0, 0, 0.2);
-    padding: 10px;
-    border-radius: 5px;
-}
-
 .txt {
     position: fixed;
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
     bottom: 45px;
-    left: -20px;
+    left: -10px;
     color: #fff;
     text-align: center;
     font-size: large;
