@@ -152,7 +152,7 @@ summary {
 
 @font-face {
     font-family: 'DSEG7 Classic';
-    src: url('fonts/DSEG7Classic-Regular.woff') format("woff"), url('fonts/DSEG7Classic-Regular.woff2') format("woff2");
+    src: url('fonts/DSEG7Classic-Regular.woff2') format("woff2"), url('fonts/DSEG7Classic-Regular.woff') format("woff");
 }
 
 html {
@@ -161,6 +161,7 @@ html {
 
 body {
     background: #000;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .txt {
@@ -179,7 +180,6 @@ body {
 }
 
 .material .point {
-    font-family: 'Noto Sans JP', sans-serif;
     font-size: 20px;
 }
 
