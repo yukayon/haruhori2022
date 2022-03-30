@@ -184,12 +184,13 @@ body {
 }
 
 .point {
-    font-family: 'DSEG7 Classic';
+    margin-left: 20px;
 }
 
 .number {
     font-size: 70px;
     letter-spacing: -0.1em;
+    font-family: 'DSEG7 Classic';
 }
 
 #reverse:target {
