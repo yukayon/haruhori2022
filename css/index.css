@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
 html,
 body,
 div,
@@ -150,11 +151,6 @@ summary {
     -webkit-backface-visibility: visible
 }
 
-@font-face {
-    font-family: 'DSEG7 Classic';
-    src: url("/fonts/DSEG7Classic-Regular.ttf") format("truetype"), url("/fonts/DSEG7Classic-Regular.woff2") format("woff2"), url("/fonts/DSEG7Classic-Regular.woff") format("woff");
-}
-
 html {
     cursor: pointer
 }
@@ -190,7 +186,7 @@ body {
 .number {
     font-size: 70px;
     letter-spacing: -0.1em;
-    font-family: 'DSEG7 Classic';
+    font-family: 'Cute Font', cursive;
 }
 
 #reverse:target {
