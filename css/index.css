@@ -152,7 +152,7 @@ summary {
 
 @font-face {
     font-family: 'DSEG7 Classic';
-    src: url('fonts/DSEG7Classic-Regular.woff2') format("woff2"), url('fonts/DSEG7Classic-Regular.woff') format("woff");
+    src: url('/fonts/DSEG7Classic-Regular.woff2') format("woff2"), url('/fonts/DSEG7Classic-Regular.woff') format("woff");
 }
 
 html {
