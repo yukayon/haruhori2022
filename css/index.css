@@ -179,12 +179,12 @@ body {
 }
 
 .point {
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
 .number {
     font-size: 70px;
-    letter-spacing: -0.15em;
+    letter-spacing: -0.1em;
 }
 
 #reverse:target {
