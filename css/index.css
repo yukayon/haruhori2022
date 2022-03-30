@@ -189,16 +189,12 @@ body {
     border-radius: 5px;
 }
 
-.material {
+.material .point {
     font-size: 20px;
 }
 
 .number {
     font-size: 70px;
-}
-
-.point {
-    font-size: 20px;
 }
 
 #reverse:target {
