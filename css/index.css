@@ -164,7 +164,7 @@ body {
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
     bottom: 45px;
-    left: -10px;
+    left: 10px;
     color: #fff;
     text-align: center;
     font-size: large;
