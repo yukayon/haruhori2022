@@ -196,6 +196,10 @@ body {
     right: 10px;
 }
 
+.migimannaka {
+    top:250px;
+    right:10px;
+}
 
 #reverse:target {
     transform: rotateY(180deg)
