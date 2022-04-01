@@ -166,28 +166,12 @@ body {
     z-index: 9999;
     bottom: 45px;
     left: 10px;
-    color: #fff;
     text-align: center;
-    font-size: large;
-    transform: rotate(90deg);
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.4);
     padding: 10px;
     border-radius: 5px;
 }
 
-.material .point {
-    font-size: 20px;
-}
-
-.point {
-    margin-left: 20px;
-}
-
-.number {
-    font-size: 70px;
-    letter-spacing: -0.1em;
-    font-family: 'Play', sans-serif;
-}
 
 #reverse:target {
     transform: rotateY(180deg)
