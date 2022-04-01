@@ -160,15 +160,26 @@ body {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+.hidarisita {
+    position: fixed;
+    /* ウィンドウを基準に画面に固定 */
+    z-index: 9999;
+    top: 10px;
+    left: 10px;    
+    background-color: rgba(0, 0, 0, 0.4);
+    padding:0 ;
+    border-radius: 5px;
+}
+
 .txt {
     position: fixed;
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
-    bottom: 45px;
+    bottom: 10px;
     left: 10px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.4);
-    padding: 10px;
+    padding:0 ;
     border-radius: 5px;
 }
 
