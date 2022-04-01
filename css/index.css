@@ -175,7 +175,7 @@ body {
     position: fixed;
     /* ウィンドウを基準に画面に固定 */
     z-index: 9999;
-    top: 30px;
+    top: 50px;
     left: 10px;    
     background-color: rgba(0, 0, 0, 0.4);
     padding:0 ;
